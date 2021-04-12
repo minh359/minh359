@@ -1,0 +1,12 @@
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\Model.dll.config
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\Model.dll
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\Model.pdb
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\EntityFramework.dll
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\EntityFramework.xml
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\obj\Debug\Model.csproj.CopyComplete
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\obj\Debug\Model.dll
+D:\data\LT Web ASP.Net\Bài tập\New folder\MVC2\Model\obj\Debug\Model.pdb
